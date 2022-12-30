@@ -1,0 +1,4 @@
+- Artributes of Data Frame object are describing the object.
+- Methods of Data Frame object are functions called for the object and have ability to modificate it. But they don't modificate orgin data, we need to make copy (or inplace=True).
+- Shift + Tab - It displays description of function in Jupyter. Double clic prints broader info. 3x - Shows up dedicated window with examples.
+- Best practices - It is way better to separate logical expression and function executing on this logic - more simple to read.
