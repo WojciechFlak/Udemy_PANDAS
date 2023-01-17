@@ -4,4 +4,4 @@ There are not only resolved homeworks, but sometimes also different tweaks to ge
 Future cheat-sheet of PANDAS for myself😀
 
 Link to the course:
-https://www.udemy.com/share/1028P83@raURnJUNwdk2j5bOhqE7UvPYmpEjRE9TzF2bEAOAwcOipgjEWcZtAZDt0dyD0IIc/
+https://www.udemy.com/course/analiza-danych-w-python-i-pandas/
